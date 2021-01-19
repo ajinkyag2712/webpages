@@ -1,0 +1,67 @@
+
+#one {
+      
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+     width: 100%;
+ text-decoration: none;
+ font-family: 'Open Sans', sans-serif;
+ background-color: #F1F1F1;
+ height: 50px;
+ }
+
+ #one img{
+     height: 35px;
+     width: 95px;
+     position: absolute;
+     left: 0.5rem;
+ }
+ #onep{
+     color: #D93025;
+    font-size: 17px;
+    padding: 5px  35px;
+    font-family: 'Open Sans', sans-serif;
+ }
+ .container-fluid{
+   
+     line-height: 40px;
+ }
+ .col-md-5 input{
+    height: 1.7rem;
+    width: 100%;
+ }
+ .col-md-5 input:focus{
+     outline: solid #498CFA 1px;
+ }
+ .col-3{
+     
+     font-size: 11px;
+     line-height: 15px;
+     align-self: start;
+     height: 100%;
+ }
+ .col-xl-2{
+     font-size: 14px;
+ }
+ #first{
+     font-weight: 400;
+ }
+ #second{
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+ }
+ #buttons{
+     background-color:#498CFA ;
+     font-family: 'Open Sans', sans-serif;
+     color: white;
+     border: none;
+    height: 30px; 
+    font-size: 11.5px;
+    border-radius: 2px;
+    }
+ @media (max-width:578px){
+
+ }
+ 
